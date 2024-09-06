@@ -9,7 +9,11 @@ Visualizations: Interactive and static visualizations of COVID-19 metrics using 
 Insights: Key insights and trends identified from the data, including country-specific analysis.
 
 
-## Example Visualizations
-Global Trends: Overview of COVID-19 trends globally.
-Country-Specific Insights: Detailed analysis of COVID-19 metrics for specific countries.
-Comparison Charts: Comparative visualizations of COVID-19 statistics between countries.
+## Steps:
+1.Understanding the Data:
+2. Data Cleaning:
+3. Descriptive Statistics:
+4. Time Series Analysis:
+5. Geographical Analysis:
+6. Correlation Analysis:
+7. Advanced Analysis:
